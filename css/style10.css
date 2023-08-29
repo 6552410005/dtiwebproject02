@@ -1,0 +1,11 @@
+a{
+    font-size: 50px;
+}
+
+a:hover{
+    background-color: yellow;
+}
+
+input:focus{
+    background-color: greenyellow;
+}
